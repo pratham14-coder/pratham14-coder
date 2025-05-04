@@ -57,7 +57,7 @@ I'm a passionate tech enthusiast driven by the mission to build intelligent syst
 
 ### 📈 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=prathamsuthar&show_icons=true&theme=radical" alt="Pratham's GitHub Stats" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamsuthar&layout=compact&theme=radical" alt="Top Languages" />
@@ -76,4 +76,3 @@ I'm a passionate tech enthusiast driven by the mission to build intelligent syst
 
 ---
 
-> ⚡ _Fun Fact:_ I once trained a deep learning model that confused cats with dogs… and it was right 50% of the time! 😂
