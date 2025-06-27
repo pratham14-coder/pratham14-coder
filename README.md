@@ -39,21 +39,7 @@ I'm a passionate tech enthusiast driven by the mission to build intelligent syst
 
 ---
 
-### 📂 Featured Projects
 
-🔹 **Generative AI Chatbot with RAG**  
-*A powerful chatbot using LangChain, vector databases & OpenAI for domain-specific Q&A.*  
-[GitHub Repo](#) | [Blog](#)
-
-🔹 **End-to-End ML Pipeline with Kubeflow**  
-*Production-grade ML pipeline with automated training, tracking, and deployment.*  
-[GitHub Repo](#)
-
-🔹 **Car Price Prediction Model**  
-*Deployed ML regression model to predict car prices using multiple features.*  
-[Notebook Preview](#)
-
----
 ## 🧠 Languages & Tools I Know
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
