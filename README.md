@@ -70,11 +70,11 @@ I’m **Pratham Suthar**, a forward-thinking **Data Scientist** who loves blendi
 
 ## 🤝 Let’s Connect
 
-[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/prathamsuthar/)  
-[![Twitter](https://cdn-icons-png.flaticon.com/512/733/733579.png)](https://x.com/PrathamSut15589)  
-[![Gmail](https://cdn-icons-png.flaticon.com/512/732/732200.png)](mailto:prathamsuthar384@gmail.com)
-
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/prathamsuthar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/PrathamSut15589"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:prathamsuthar384@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 ---
 
 ## ⚡ Fun Fact
