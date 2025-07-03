@@ -64,9 +64,7 @@ I’m **Pratham Suthar**, a forward-thinking **Data Scientist** who loves blendi
 
 ## 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathamsuthar&theme=radical" alt="GitHub Streak" />
-</p>
+![pratham14-coder's Stats](https://github-readme-stats.vercel.app/api?username=pratham14-coder&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
