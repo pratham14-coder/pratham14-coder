@@ -2,7 +2,7 @@
 
 > *"A data scientist is someone who understands data like a statistician and builds like a software engineer."*
 
-I’m **Pratham Suthar**, a forward-thinking **Data Scientist** who loves blending data, code, and creativity to solve real-world problems. I specialize in building intelligent systems with machine learning, NLP, and generative AI. Whether it's designing ML pipelines, fine-tuning LLMs, or deploying scalable solutions — I’m all in.
+I'm a forward-thinking **Data Scientist** who loves blending **data**, **code**, and **creativity** to solve real-world problems.
 
 ---
 
